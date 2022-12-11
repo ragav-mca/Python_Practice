@@ -17,3 +17,18 @@ min_index = num1.index(min(num1))
 
 print("The highest sales of the week is day: ",max_index+1)
 print("The highest sales of the week is day: ",min_index+1)
+
+Output:
+Output:
+Enter the total amount of sales for Day 1:2790
+Enter the total amount of sales for Day 2:1789
+Enter the total amount of sales for Day 3:2451
+Enter the total amount of sales for Day 4:2643
+Enter the total amount of sales for Day 5:3290
+Enter the total amount of sales for Day 6:2994
+Enter the total amount of sales for Day 7:1683
+[2790, 1789, 2451, 2643, 3290, 2994, 1683]
+Highest sales of the week is:  3290
+Least sales of the week is:  1683
+The highest sales of the week is day:  5
+The highest sales of the week is day:  7
