@@ -39,3 +39,19 @@ if b==False:
     print("Username is Invalid")
 else:
     print("Username is valid")
+    
+Output:
+Enter the name: python
+Username is valid
+
+Enter the name: _python
+The username starts with underscore
+Username is Invalid
+
+Enter the name: pyth#$on
+The username consists of special character
+Username is Invalid
+
+Enter the name: python_
+The username ends with underscore
+Username is Invalid
