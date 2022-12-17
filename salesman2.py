@@ -56,4 +56,16 @@ elif(exp >= 1 and b >= 5 and leave_count >=1):
     total_salary6 = increment + total_salary3 - lop
     print("Total amount of salary is:",total_salary6)
 
+Output:
+Enter the year of experience: 1
+Enter the no of days leave: 2
+Enter the no of phones sold: 30
+Loss of pay is:  400
+Increment: 2000
+20
+Salary for first 10 phones sold is: 11300.0
+10
+Salary for second 10 phones sold is: 11500.0
+Salary for next 5 phones sold is: 11600.0
+Total amount of salary is: 12900.0
     
